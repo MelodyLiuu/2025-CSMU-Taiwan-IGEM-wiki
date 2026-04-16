@@ -8,7 +8,7 @@ iGEM（International Genetically Engineered Machine）為全球最大的國際�
 
 ### 獎項
 
-🥈 **iGEM 2025 銀牌** — CSMU-Taiwan，學士後組（Overgraduate Division）  
+🥈 **iGEM 2025 銀牌** — CSMU-Taiwan，學士後組
 2025 年 10 月 28–31 日，法國巴黎
 
 ### 我在團隊的貢獻
